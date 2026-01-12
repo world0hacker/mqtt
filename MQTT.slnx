@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/System.Net.MQTT/System.Net.MQTT.csproj" />
+    <Project Path="src/System.Net.MQTT.Broker/System.Net.MQTT.Broker.csproj" />
+  </Folder>
+  <Folder Name="/samples/">
+    <Project Path="samples/MqttClient.Sample/MqttClient.Sample.csproj" />
+    <Project Path="samples/MqttBenchmark/MqttBenchmark.csproj" />
+    <Project Path="samples/MqttBroker.Sample/MqttBroker.Sample.csproj" />
+    <Project Path="samples/BridgeClusterDemo/BridgeClusterDemo.csproj" />
+    <Project Path="samples/BridgeParentBroker/BridgeParentBroker.csproj" />
+    <Project Path="samples/BridgeChildBroker/BridgeChildBroker.csproj" />
+    <Project Path="samples/ClusterNode/ClusterNode.csproj" />
+    <Project Path="samples/UdpProtocolTest/UdpProtocolTest.csproj" />
+    <Project Path="samples/CoapServer/CoapServer.csproj" />
+    <Project Path="samples/CoapClient/CoapClient.csproj" />
+  </Folder>
+</Solution>

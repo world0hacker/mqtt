@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net8.0;net10.0</TargetFrameworks>
+    <RootNamespace>System.Net.MQTT</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+
+    <PackageId>System.Net.MQTT</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Your Name</Authors>
+    <Description>A high-performance MQTT client library for .NET</Description>
+    <PackageTags>mqtt;iot;messaging;client</PackageTags>
+  </PropertyGroup>
+
+</Project>
