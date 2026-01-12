@@ -53,10 +53,10 @@ MQTT/
 
 ```bash
 # Client library
-dotnet add package System.Net.MQTT
+dotnet add package mqtt-hnlyf
 
 # Broker library
-dotnet add package System.Net.MQTT.Broker
+dotnet add package MQTT.Broker
 ```
 
 ### Client Usage
